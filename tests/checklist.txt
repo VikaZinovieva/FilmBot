@@ -1,0 +1,26 @@
+Verify /start responce include start message
+Verify start message include "Hello, user's first name, choose from list:/detectives🕵️‍️ /comedy😂 /horror👻 /romantic ❤️ /animation 🎠 List of all films: /all type of film"
+
+Verify /detectives responce include one random film from list of detectives
+Verify /all detectives responce include all available detective films
+
+Verify /romantic responce include one random film from list of romantic
+Verify /all romantic responce include all available romantic films
+
+Verify /comedy responce include one random film from list of comedy
+Verify /all comedy responce include all available comedy films
+
+Verify /horror responce  include one random film from list of horror
+Verify /all horror responce include all available  horror films
+
+Verify /animation responce include one random film from list of animation
+Verify /all animation responce include all available animation films
+
+Verify /stop responce include farewell message
+
+Verify / response include error message
+Verify /more than 4096 characters response include error message
+Verify /how write this invalid check?(e.x detectibe? ronantic? hohror? using stikers? special characters numbers? response include error message
+Verify /all (e.x detectibe? ronantic? hohror? using stikers? special characters numbers? response include error message
+Verify error message include "I don't understand you! 🤷"
+
